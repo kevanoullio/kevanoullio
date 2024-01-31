@@ -1,8 +1,55 @@
-- 👋 Hi, I’m @kevanoullio.
-- 👀 I’m interested in Machine Learning, Digital Signal Processing, Full Stack Development, Strategy Analysis & Risk Management for investing, trading bots using Python/json/webhooks, cryptocurrency development, open source development, Linux, and specific languages like Python/C/C++/SQL/Java and others.
-- 🌱 I’m currently learning how to code VST audio effects & instruments using Steinberg’s VST SDK & C++, and will be learning much more about Machine Learning, Computer Vision, Web App development, Java and object oriented programming, and how to code crypto trading bots using Python/json/webhooks.
-- 💞️ I’m looking to collaborate on VST audio effects & instruments.
-- 📫 You can reach me through my website www.vintiquesound.com or on twitter @KevanoUllio.
+<h1>👋 Hi, I’m Kevin Ulliac aka @kevanoullio </h1>
+
+<br>
+
+## 🙋‍♂️ About Me:
+- I'm an undergraduate student at MacEwan University with a major in Computer Science and a minor in Mathematics
+- Owner/Mixing & Mastering Engineer/Producer at Vintique Sound
+- Bachelor of Arts in Philosophy, minor in Psychology (from MacEwan University, 2017 alumni)
+- I love cooking, hockey, yoga, snowboarding, riding my bike in the river valley, and attending music festivals.
+
+<br>
+
+## 💻 Technologies:
+<span>
+<img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+<img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</span>
+
+Python, C, Java, MySQL, SQLite, HTML, CSS, Javascript, Pine Script.
+
+<br>
+
+## 🌱 Currently Learning:
+- Machine Learning
+- Artificial Intelligence
+- Web App Development using React/Node.js
+- VST audio effects & instruments using Steinberg’s VST SDK & C++.
+
+<br>
+
+## 👀 Interested in:
+- Computer Vision
+- Digital Signal Processing
+- Full Stack Development
+- Stock/Crypto Trading Strategies and Bots using Python/json/webhooks
+- Strategy Analysis & Risk Management for investing
+- Open Source development
+- Linux, and Bash Scripting
+
+<br>
+
+## ✉️ Contact
+- I’m looking to collaborate on VST audio effects & instruments.
+- You can reach me through Github, or my website www.vintiquesound.com, or via instagram @vintiquesound.
+
+
 
 <!---
 kevanoullio/kevanoullio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
