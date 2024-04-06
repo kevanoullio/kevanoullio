@@ -25,7 +25,7 @@
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />          
 </span>
 
-Python, C, Java, MySQL, SQLite, HTML, CSS, Javascript, Pine Script.
+Python, C, Java, MySQL, SQLite, HTML, CSS, Javascript, npm, NodeJS, React, Pine Script.
 
 <br>
 
