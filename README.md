@@ -30,19 +30,21 @@ Python, C, Java, MySQL, SQLite, HTML, CSS, Javascript, npm, NodeJS, React, Pine 
 <br>
 
 ## 🌱 Currently Learning:
+- Digital Signal Processing (DSP)
+- VST audio effects & instruments using Steinberg’s VST SDK & C++
+- CLAP audio plugin development
 - Machine Learning
 - Artificial Intelligence
 - Web App Development using React/Node.js
-- VST audio effects & instruments using Steinberg’s VST SDK & C++.
 
 <br>
 
 ## 👀 Interested in:
-- Computer Vision
 - Digital Signal Processing
 - Full Stack Development
-- Stock/Crypto Trading Strategies and Bots using Python/json/webhooks
+- Computer Vision
 - Strategy Analysis & Risk Management for investing
+- Stock/Crypto Trading Strategies and Bots using Python/json/webhooks
 - Open Source development
 - Linux, and Bash Scripting
 
