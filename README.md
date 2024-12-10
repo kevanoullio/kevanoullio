@@ -29,29 +29,35 @@ Python, C, Java, MySQL, SQLite, HTML, CSS, Javascript, npm, NodeJS, React, Pine 
 
 <br>
 
+## 😎 Experience with:
+- Python, C, and Java Software Development
+- Machine Learning and Data Analysis
+- Artificial Intelligence
+- Web App Development using React/Node.js
+- Pine Script Programming for TradingView
+- Strategy Analysis & Risk Management for investing
+- Operating Systems and Systems Level Programming
+
+<br>
+
 ## 🌱 Currently Learning:
 - Digital Signal Processing (DSP)
 - VST audio effects & instruments using Steinberg’s VST SDK & C++
 - CLAP audio plugin development
-- Machine Learning
-- Artificial Intelligence
-- Web App Development using React/Node.js
-
-<br>
-
-## 👀 Interested in:
-- Digital Signal Processing
-- Full Stack Development
-- Computer Vision
-- Strategy Analysis & Risk Management for investing
-- Stock/Crypto Trading Strategies and Bots using Python/json/webhooks
-- Open Source development
 - Linux, and Bash Scripting
 
 <br>
 
+## 👀 Interested in:
+- Full Stack Development
+- Computer Vision
+- Stock/Crypto Trading Strategies and Bots using Python/json/webhooks
+- Open Source development
+
+<br>
+
 ## ✉️ Contact
-- I’m looking to collaborate on VST audio effects & instruments.
+- I’m looking to collaborate on any number of projects, particularly in one of the topics listed above.
 - You can reach me through Github, or my website www.vintiquesound.com, or via instagram @vintiquesound.
 
 
