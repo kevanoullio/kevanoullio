@@ -6,7 +6,7 @@
 - I'm an undergraduate student at MacEwan University with a major in Computer Science and a minor in Mathematics
 - Owner/Mixing & Mastering Engineer/Producer at Vintique Sound
 - Bachelor of Arts in Philosophy, minor in Psychology (from MacEwan University, 2017 alumni)
-- I love cooking, hockey, yoga, snowboarding, riding my bike in the river valley, and attending music festivals.
+- I love music, coding, cooking, hockey, yoga, snowboarding, riding my bike in the river valley, and attending music festivals.
 
 <br>
 
@@ -41,6 +41,9 @@ Python, C, Java, MySQL, SQLite, HTML, CSS, Javascript, npm, NodeJS, React, Pine 
 <br>
 
 ## 🌱 Currently Learning:
+- Kotlin and Android app development
+- Figma & Jetpack Compose
+- Firebase & Room (SQLite)
 - Digital Signal Processing (DSP)
 - VST audio effects & instruments using Steinberg’s VST SDK & C++
 - CLAP audio plugin development
