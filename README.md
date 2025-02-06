@@ -33,7 +33,9 @@ Python, C, Java, MySQL, SQLite, HTML, CSS, Javascript, npm, NodeJS, React, Pine 
 - Python, C, and Java Software Development
 - Machine Learning and Data Analysis
 - Artificial Intelligence
-- Web App Development using React/Node.js
+- Full Stack Web App Development using React/Node.js/MongoDB
+- Back End Development using SQL/SQLite
+- Website Development using HTML/CSS/Javascript
 - Pine Script Programming for TradingView
 - Strategy Analysis & Risk Management for investing
 - Operating Systems and Systems Level Programming
@@ -41,9 +43,10 @@ Python, C, Java, MySQL, SQLite, HTML, CSS, Javascript, npm, NodeJS, React, Pine 
 <br>
 
 ## 🌱 Currently Learning:
-- Kotlin and Android app development
-- Figma & Jetpack Compose
-- Firebase & Room (SQLite)
+- Android app development using Kotlin
+- Figma & Jetpack Compose UI
+- Firebase (NoSQL) & Room (SQLite)
+- Agile and Scrum methodologies
 - Digital Signal Processing (DSP)
 - VST audio effects & instruments using Steinberg’s VST SDK & C++
 - CLAP audio plugin development
