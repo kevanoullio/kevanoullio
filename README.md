@@ -47,6 +47,7 @@ Python, C, Java, MySQL, SQLite, HTML, CSS, Javascript, npm, NodeJS, React, Pine 
 - Figma & Jetpack Compose UI
 - Firebase (NoSQL) & Room (SQLite)
 - Agile and Scrum methodologies
+- Project Management (Scrum Leader)
 - Digital Signal Processing (DSP)
 - VST audio effects & instruments using Steinberg’s VST SDK & C++
 - CLAP audio plugin development
