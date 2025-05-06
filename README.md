@@ -3,9 +3,9 @@
 <br>
 
 ## 🙋‍♂️ About Me:
-- I'm an undergraduate student at MacEwan University with a major in Computer Science and a minor in Mathematics
+- BSc in Computer Science, minor in Mathematics (MacEwan University, 2025 alumni)
+- BA in Philosophy, minor in Psychology (MacEwan University, 2017 alumni)
 - Owner/Mixing & Mastering Engineer/Producer at Vintique Sound
-- Bachelor of Arts in Philosophy, minor in Psychology (from MacEwan University, 2017 alumni)
 - I love music, coding, cooking, hockey, yoga, snowboarding, riding my bike in the river valley, and attending music festivals.
 
 <br>
@@ -15,6 +15,7 @@
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -25,29 +26,24 @@
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />          
 </span>
 
-Python, C, Java, MySQL, SQLite, HTML, CSS, Javascript, npm, NodeJS, React, Pine Script.
+Python, C, Java, Kotlin, MySQL, SQLite, HTML, CSS, Javascript, npm, NodeJS, React, Pine Script.
 
 <br>
 
 ## 😎 Experience with:
-- Python, C, and Java Software Development
-- Machine Learning and Data Analysis
-- Artificial Intelligence
-- Full Stack Web App Development using React/Node.js/MongoDB
-- Back End Development using SQL/SQLite
-- Website Development using HTML/CSS/Javascript
+- Python, C, & Java Software Development
+- Machine Learning & Data Analysis
+- Artificial Intelligence & Agents
+- Full Stack Web App Development using React/Node.js/HTML/CSS/Javascript/MongoDB/SQL/SQLite
+- Android app development using Kotlin, Jetpack Compose UI, Gradle, Room (SQLite) & Firebase (NoSQL) 
 - Pine Script Programming for TradingView
 - Strategy Analysis & Risk Management for investing
-- Operating Systems and Systems Level Programming
+- Operating Systems & Systems Level Programming
+- Agile & Scrum methodologies, including Project Management as Scrum Leader
 
 <br>
 
 ## 🌱 Currently Learning:
-- Android app development using Kotlin
-- Figma & Jetpack Compose UI
-- Firebase (NoSQL) & Room (SQLite)
-- Agile and Scrum methodologies
-- Project Management (Scrum Leader)
 - Digital Signal Processing (DSP)
 - VST audio effects & instruments using Steinberg’s VST SDK & C++
 - CLAP audio plugin development
@@ -56,7 +52,6 @@ Python, C, Java, MySQL, SQLite, HTML, CSS, Javascript, npm, NodeJS, React, Pine 
 <br>
 
 ## 👀 Interested in:
-- Full Stack Development
 - Computer Vision
 - Stock/Crypto Trading Strategies and Bots using Python/json/webhooks
 - Open Source development
