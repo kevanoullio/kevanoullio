@@ -44,6 +44,11 @@ Python, C, Java, Kotlin, MySQL, SQLite, HTML, CSS, Javascript, npm, NodeJS, Reac
 <br>
 
 ## 🌱 Currently Learning:
+- Mendix WebApp Development
+- Next.js
+- SASS (.scss)
+- Tailwind CSS
+- MDX (Markdown with JSX)
 - Digital Signal Processing (DSP)
 - VST audio effects & instruments using Steinberg’s VST SDK & C++
 - CLAP audio plugin development
