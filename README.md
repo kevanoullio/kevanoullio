@@ -24,10 +24,11 @@
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />          
+<img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
 </span>
 
-Python, C, Java, Kotlin, MySQL, SQLite, HTML, CSS, JavaScript, TypeScript, npm, NodeJS, React, Pine Script.
+Python, C, Java, Kotlin, MySQL, SQLite, HTML, CSS, JavaScript, TypeScript, npm, NodeJS, React, Astro, Pine Script.
 
 <br>
 
@@ -35,7 +36,7 @@ Python, C, Java, Kotlin, MySQL, SQLite, HTML, CSS, JavaScript, TypeScript, npm, 
 - Python, C, & Java Software Development
 - Machine Learning & Data Analysis
 - Artificial Intelligence & Agents
-- Full Stack Web App Development using React/Node.js/HTML/CSS/JavaScript/TypeScript/MongoDB/SQL/SQLite
+- Full Stack Web App Development using Astro/React/Node.js/HTML/CSS/JavaScript/TypeScript/MongoDB/SQL/SQLite
 - Android app development using Kotlin, Jetpack Compose UI, Gradle, Room (SQLite) & Firebase (NoSQL) 
 - Pine Script Programming for TradingView
 - Strategy Analysis & Risk Management for investing
