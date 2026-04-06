@@ -19,8 +19,8 @@
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-<img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
+<img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
@@ -31,7 +31,7 @@
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 </span>
 
-Python, C, Java, Kotlin, HTML, CSS, Tailwind CSS, React, Astro, JavaScript, TypeScript, npm, NodeJS, PostgreSQL, MySQL, SQLite, MongoDB, Pine Script.
+Python, C, Java, Kotlin, HTML, CSS, Tailwind CSS, Astro, React, JavaScript, TypeScript, npm, NodeJS, PostgreSQL, MySQL, SQLite, MongoDB, Pine Script.
 
 <br>
 
@@ -39,7 +39,7 @@ Python, C, Java, Kotlin, HTML, CSS, Tailwind CSS, React, Astro, JavaScript, Type
 - Python, C, & Java Software Development
 - Machine Learning & Data Analysis
 - Artificial Intelligence & Agents
-- Full Stack Web App Development using Astro/React/Node.js/HTML/CSS/Tailwind CSS/JavaScript/TypeScript/MongoDB/SQL/SQLite
+- Full Stack Web App Development using Astro/React/HTML/CSS/Tailwind CSS/JavaScript/TypeScript/Node.js/PostgreSQL/MySQL/SQLite/MongoDB
 - Android app development using Kotlin, Jetpack Compose UI, Gradle, Room (SQLite) & Firebase (NoSQL) 
 - Pine Script Programming for TradingView
 - Strategy Analysis & Risk Management for investing
