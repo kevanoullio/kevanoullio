@@ -28,6 +28,7 @@
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+<img width=60px height=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 </span>
 
 Python, C, Java, Kotlin, HTML, CSS, Tailwind CSS, React, Astro, JavaScript, TypeScript, npm, NodeJS, PostgreSQL, MySQL, SQLite, MongoDB, Pine Script.
