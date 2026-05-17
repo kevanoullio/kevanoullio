@@ -39,7 +39,9 @@ Python, C, Java, Kotlin, HTML, CSS, Tailwind CSS, Astro, React, JavaScript, Type
 - Python, C, & Java Software Development
 - Machine Learning & Data Analysis
 - Artificial Intelligence & Agents
-- Full Stack Web App Development using Astro/React/HTML/CSS/Tailwind CSS/JavaScript/TypeScript/Node.js/PostgreSQL/MySQL/SQLite/MongoDB
+- Full Stack Web App Development
+- Front End Development using Astro/React/HTML/CSS/Tailwind CSS/JavaScript/TypeScript
+- Back End Development using JavaScript/TypeScript/Node.js/Java/Python/PostgreSQL/MySQL/SQLite/MongoDB
 - Android app development using Kotlin, Jetpack Compose UI, Gradle, Room (SQLite) & Firebase (NoSQL) 
 - Pine Script Programming for TradingView
 - Strategy Analysis & Risk Management for investing
